@@ -6,6 +6,6 @@
 ---
 ### <h2>Video Illustration</h2>
 <p align="center">
-<img src = "https://github.com/shreyashHake/Dice_Roller/blob/main/Images/diceRollerV2.gif" alt = "Two dice are rolling">
+<img src = "https://github.com/shreyashHake/Dice_Roller/blob/main/Images/diceRollerV2.gif" alt = "Two dice are rolling when clicked on Roll button">
 </p>
 <br>
